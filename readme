@@ -1,0 +1,7 @@
+macOS version of Android Image Kitchen
+
+Changes made by Zengwen Yuan, based on osm0sis's AIK-Linux-v2.2 version
+Performs special patch on Android's radio interface and diag device.
+
+Original post:
+https://forum.xda-developers.com/showpost.php?p=36067074
